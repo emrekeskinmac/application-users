@@ -1,6 +1,6 @@
 ## application-users
 
-### Desciription
+### Description
 User management application with account verification support. Will be updated with new features soon.
 
 ### Quick Start Guide
