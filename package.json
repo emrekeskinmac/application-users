@@ -1,0 +1,16 @@
+{
+  "name": "application-users",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Keskin <me@emrekesk.in>",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "debug": "^4.1.1",
+    "mesg-js": "^2.0.1",
+    "uuid": "^3.3.2"
+  }
+}
